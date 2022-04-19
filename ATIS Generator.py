@@ -130,4 +130,4 @@ while True:
 
     os.startfile("ATIS.txt")
 
-    time.sleep(1 * 60)
+    time.sleep(30 * 60)
